@@ -6,20 +6,20 @@ output:
     df_print: paged
 ---
 
-```{r setup, include=FALSE}
+```{r setup}
 # Heading level1
 
 ## Heading level2
 
 ## Heading level3
 
-# This is an example of ordered list.
+# This is an example of ordered list:
 1. Item1
 2. Item2
 3. Item3
 4. Item4
 
-# This is an example of unordered list.
+# This is an example of unordered list:
 1. Item1
 2. Item2
 3. Item3
