@@ -8,6 +8,7 @@ output:
 
 ```{r setup}
 print("Introduction to Health Data Science")
+Print("An example of Rmarkdown")
 ```
 
 # Heading level 1
